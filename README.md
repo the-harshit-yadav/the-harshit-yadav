@@ -6,6 +6,9 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/the-harshit-yadav" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Github-black?style=for-the-badge&logo=globe&logoColor=00D4FF&labelColor=161B22" alt="Github"/>
+  </a>
   <a href="mailto:2harshityadav2403@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/-Email-black?style=for-the-badge&logo=mail&logoColor=00D4FF&labelColor=161B22" alt="Email"/>
   </a>
