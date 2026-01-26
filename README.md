@@ -76,3 +76,19 @@ const Harshit: Developer = {
 </div>
 
 <br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" height="35"/> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=the-harshit-yadav&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-harshit-yadav&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-harshit-yadav&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-harshit-yadav&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br>
