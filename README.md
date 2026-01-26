@@ -62,7 +62,7 @@ const Harshit: Developer = {
 <td align="center" width="50%">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,ansible,jenkins,linux&perline=4" alt="Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,jenkins,linux&perline=4" alt="Cloud Skills" />
 
 <br>
 
@@ -92,3 +92,111 @@ const Harshit: Developer = {
 </div>
 
 <br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="35" height="35"/> Current Focus
+
+<div align="center">
+
+### 📚 Learning | 🛠️ Building | 🎯 Goals 2024
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+<b>📚 Learning</b><br>
+
+- 🔧 System Design Patterns  
+- ☁️ Cloud & Microservices  
+- 🧠 AI/ML Integration  
+- ⚙️ DevOps & CI/CD  
+
+</td>
+    <td valign="top" width="33%">
+
+<b>🛠️ Building</b><br>
+
+- 🌐 SaaS Platforms  
+- 🧰 Dev Tools  
+- 🤖 AI Code Assistant  
+
+</td>
+    <td valign="top" width="33%">
+
+<b>🎯 Goals 2024</b><br>
+
+- 🌟 Contribute to 10 OSS  
+- 🚀 Launch 3 Apps  
+- 👨‍🏫 Mentor 20 Devs  
+- 🎤 5 Conference Talks  
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" height="35"/> Philosophy
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="50" height="50"/>
+<br><b>Clean Code</b>
+<br><i>Write code that tells a story</i>
+</td>
+<td align="center" width="33%">
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/artist-palette_1f3a8.png" width="50" height="50" alt="Palette"/>
+<br><b>User Experience</b>
+<br><i>Design with empathy</i>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="50" height="50"/>
+<br><b>Innovation</b>
+<br><i>Push boundaries</i>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" height="35"/> Let's Connect
+
+<div align="center">
+
+<a href="2harshityadav2403@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-2harshityadav2403@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshit232/" target="_blank">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22"/>
+</a>
+
+
+</div>
+
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💫 Thanks for visiting! Let's build something amazing together! 💫</h3>
+</div>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
