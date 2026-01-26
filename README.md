@@ -96,7 +96,7 @@ const Harshit: Developer = {
 
 <div align="center">
 
-### 📚 Learning | 🛠️ Building | 🎯 Goals 2024
+### 📚 Learning | 🛠️ Building | 🎯 Goals 2026
 
 ---
 
@@ -123,7 +123,7 @@ const Harshit: Developer = {
 </td>
     <td valign="top" width="33%">
 
-<b>🎯 Goals 2024</b><br>
+<b>🎯 Goals 2026</b><br>
 
 - 🌟 Contribute to 10 OSS  
 - 🚀 Launch 3 Apps  
