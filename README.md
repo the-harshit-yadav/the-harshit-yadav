@@ -9,7 +9,8 @@ eader&text=Harshit&fontSize=40&fontColor=ffffff" />
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" /> About Me
 
 <table>
-
+<tr>
+<td>
 
 ```js
 const harshit = {
@@ -24,11 +25,9 @@ const harshit = {
   philosophy: "Build scalable systems with clean code"
 };
 ```
-
-
- ##<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" max-width="100%" />
-
- </table>
-
-
+</td>
+<td>
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" max-width="100%" />
+</td>
+</tr> </table>
 
