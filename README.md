@@ -76,6 +76,8 @@ const Harshit: Developer = {
 </div>
 
 <br>
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" height="35"/> GitHub Analytics
 
 <div align="center">
@@ -92,6 +94,8 @@ const Harshit: Developer = {
 </div>
 
 <br>
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="35" height="35"/> Current Focus
 
 <div align="center">
