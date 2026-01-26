@@ -24,7 +24,12 @@ const harshit = {
   },
   philosophy: "Build scalable systems with clean code"
 };
-## <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="120" />
 ```
+</td>
+<td>
+ ## <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220" />
+</td>
+</tr> </table>
+
 
 
