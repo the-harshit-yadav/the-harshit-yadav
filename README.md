@@ -92,7 +92,7 @@ const Harshit: Developer = {
 </div>
 
 <br>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="35" height="35"/> Current Focus
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="35" height="35"/> Current Focus
 
 <div align="center">
 
@@ -141,7 +141,7 @@ const Harshit: Developer = {
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" height="35"/> Philosophy
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" height="35"/> Philosophy
 
 <div align="center">
 <table>
@@ -167,7 +167,7 @@ const Harshit: Developer = {
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" height="35"/> Let's Connect
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35" height="35"/> Let's Connect
 
 <div align="center">
 
@@ -186,6 +186,14 @@ const Harshit: Developer = {
 <br>
 
 ---
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
+
+![snake gif](https://github.com/the-harshit-yadav/the-harshit-yadav/blob/output/github-snake-dark.svg)
+
+
+
+<br>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker"/>
