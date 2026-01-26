@@ -38,3 +38,38 @@ const Harshit: Developer = {
 ```
 
 <br clear="right"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35"/> Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=5" alt="Frontend Skills" />
+
+<br>
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,mongodb&perline=5" alt="Backend Skills" />
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,ansible,jenkins,linux&perline=4" alt="Cloud Skills" />
+
+<br>
+
+### 🛠️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm&perline=4" alt="Tools" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
