@@ -3,6 +3,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HARSHIT&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=51&descAlign=62)
 
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+Digital+Experiences;💡+Solving+Complex+Problems;🎨+Crafting+Beautiful+Code" alt="Typing Animation"/>
+</div>
 <br>
 
 <div align="center">
