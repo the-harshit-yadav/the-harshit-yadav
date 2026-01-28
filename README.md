@@ -197,7 +197,7 @@ const Harshit: Developer = {
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
 
-
+![snake gif](https://github.com/the-harshit-yadav/the-harshit-yadav/blob/output/github-snake-dark.svg)
 
 
 <br>
